@@ -1,2 +1,2 @@
-# my_first_repo
-my first repo
+# dice_game_repo
+repo for my favorite dice game
